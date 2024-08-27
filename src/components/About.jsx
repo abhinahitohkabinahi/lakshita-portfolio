@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I’m an accomplished architect from Jammu with a degree in Architecture from the College of Engineering, Trivandrum. I specialize in creating innovative and sustainable architectural solutions that blend functionality with aesthetics. With experience in designing residential, commercial, and public spaces, I collaborate closely with clients to turn their visions into reality. Let's work together to create spaces that inspire and elevate everyday living!
+        I’m an accomplished architect from Jammu with a degree in Architecture. I specialize in creating innovative and sustainable architectural solutions that blend functionality with aesthetics. With experience in designing residential, commercial, and public spaces, I collaborate closely with clients to turn their visions into reality. Let's work together to create spaces that inspire and elevate everyday living!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
